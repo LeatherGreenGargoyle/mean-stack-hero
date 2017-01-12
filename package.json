@@ -1,0 +1,26 @@
+{
+  "name": "mean-stack-hero",
+  "version": "1.0.0",
+  "description": "This repo contains the source code for our course: [\r The complete JavaScript developer: MEAN stack zero-to-hero](http://www.fullstacktraining.com/courses/learn-the-mean-stack)",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeatherGreenGargoyle/mean-stack-hero.git"
+  },
+  "author": "Andrew Tran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeatherGreenGargoyle/mean-stack-hero/issues"
+  },
+  "homepage": "https://github.com/LeatherGreenGargoyle/mean-stack-hero#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  }
+}
